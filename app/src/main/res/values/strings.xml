@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">GameB</string>
+    <string name="username">Имя</string>
+    <string name="usersurname">Фамилия</string>
+    <string name="apply">Применить</string>
+    <string name="auth">Авторизация</string>
+    <string name="etLogin">Введите логин</string>
+    <string name="etReg">Введите пароль</string>
+    <string name="Enter">Войти</string>
+    <string name="Email">E-mail</string>
+    <string name="textReg">Если вы у нас впервые, пройдите регистрацию.</string>
+    <string name="Reg">Зарегистрироваться</string>
+    <string name="RegHeadline">Регистрация</string>
+    <string name="icon">TODO</string>
+    <string name="next">Продолжить</string>
+    <string name="back">Назад</string>
+    <string name="notification">Уведомления</string>
+    <string name="favourite">Избранное</string>
+    <string name="PersonalInfo">Персональная информация</string>
+    <string name="search">Найти\.\.\.</string>
+    <string name="hi">Приветствую\,</string>
+    <string name="search2">что желаете найти?</string>
+    <string name="search_bottom1">Поиск</string>
+    <string name="profile">Профиль</string>
+    <string name="witcher">The Witcher</string>
+    <string name="witcher_description">Ведьмак Геральт из Ривии, легендарный охотник на чудовищ, оказался в центре борьбы за мировое господство. </string>
+    <string name="nick">Введите никнейм</string>
+    <string name="send_comm">Введите сообщение</string>
+    <string name="description">Описание</string>
+    <string name="send">Отправить</string>
+    <string name="genre1">Жанр: Survival Horror, Стелс</string>
+    <string name="genre2">Жанр: Action-adventure</string>
+    <string name="genre3">Жанр: Action-adventure</string>
+    <string name="date1">26.12.2021</string>
+    <string name="review">Отзывы</string>
+    <string name="Advantages">Достоинства</string>
+    <string name="Advantages_text">«Отличная игра.»«Продуманные диалоги.»«Игра отличная и сюжет, и графика.»«Геймплей.»</string>
+    <string name="Disadvantages">Недостатки</string>
+    <string name="Disadvantages_text">Открытый мир долгие загрузки.»«Ержан салам алейкум вставай на работу.»«Нет продолжения.»«Впечатление халтуры от и до.»</string>
+    <string name="comm1">Это самая атмосферная игра во всем мире, даже сталкер который с ней постоянно сравнивают даже рядом не стоял</string>
+
+    <string name="shop">Магазин</string>
+    <string name="price">Цена:</string>
+    <string name="itemPrice">1000</string>
+    <string name="itemAvailable">есть</string>
+    <string name="available">Наличие:</string>
+    <string name="discount">Скидка:</string>
+    <string name="itemDiscount">5%</string>
+    <string name="buyItem">Купить</string>
+    <string name="name_product">Наименование товара</string>
+    <string name="shop_product">Где купить?</string>
+
+    <string name="error">Возникла ошибка!!!</string>
+    <string name="error_connect">Ошибка соединения :D</string>
+
+</resources>
